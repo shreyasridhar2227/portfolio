@@ -198,7 +198,7 @@ section .title::before{
 .qualification .title::after,
 .project .title::after{
     background: #111;
-     content: "What I have done";
+     content: "Education";
 }
 .qualification, .project{
     color: #fff;
