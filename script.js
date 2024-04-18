@@ -20,13 +20,13 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
     var typed = new Typed(".typing",{
-        strings:["IT Student","Developer","Designer"],
+        strings:["IT Graduate","Software Developer","Analyst"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2",{
-        strings:["IT Student","Developer","Designer"],
+        strings:["IT Graduate","Software Developer","Analyst"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
